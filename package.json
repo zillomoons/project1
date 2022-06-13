@@ -1,0 +1,22 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "node.js app",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zillomoons/project1.git"
+  },
+  "author": "Dolzhit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zillomoons/project1/issues"
+  },
+  "homepage": "https://github.com/zillomoons/project1#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
